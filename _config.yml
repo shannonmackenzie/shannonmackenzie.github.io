@@ -14,6 +14,7 @@ github_username: shannonmackenzie
 pub_year: 2017
 repo: "https://github.com/shannonmackenzie.github.io"
 
+include: ["/_pages/"]
 
 # Build settings
 markdown: kramdown
