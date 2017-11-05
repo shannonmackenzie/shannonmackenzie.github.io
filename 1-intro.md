@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 1-Intro
+title: Curriculum Vitae
+permalink: /cv
 ---
 
 # Introduction to GitHub Pages
