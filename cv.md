@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: CV
 permalink: /cv
 ---
 {% include image.html file="images/P5270265.JPG" alt="Fossilized polygonal mudcracks in Morocco" width="45%" %}
