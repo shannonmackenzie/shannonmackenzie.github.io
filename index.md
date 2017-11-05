@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div> 
-    <img src="{{ site.url }}/images/agirlandherevaporites.jpg" alt="Liwa interdune evaporites" style="width:45%;" >
+    <img src="{{ site.url }}/images/agirlandherevaporites.JPG" alt="Liwa interdune evaporites" style="width:45%;" >
     <img src="{{ site.url }}/images/IMG_0091.jpg" alt="Palouse Falls" style="width:45%;" >
 </div>
 
