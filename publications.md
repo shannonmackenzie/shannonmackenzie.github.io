@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications
 ---
 <div>
-  <img src="{{ site.url }}/images/widePIA18432.jpg" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
+  <img src="{{ site.url }}/images/widePIA18432.png" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
 </div>
  
 # Published Works
