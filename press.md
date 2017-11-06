@@ -10,7 +10,7 @@ permalink: /press
 div.gallery {
     margin: 10px;
     float: left;
-    width: 180px;
+    width: 300px;
 }
 
 div.gallery:hover {
