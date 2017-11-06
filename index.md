@@ -13,5 +13,4 @@ I am a planetary scientist working towards a PhD in Physics from the University 
 When not in the lab, I enjoy cooking, knitting, gardening, and HIIT.
 
 
-> Website built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
-> based on the minimalist theme by <a href="https://github.com/evanwill">evan will</a> 2017. 
+[Google Scholar profile](https://scholar.google.com/citations?user=982dVpEAAAAJ&hl=en)
