@@ -52,10 +52,10 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  <a target="_blank" href="https://www.uidaho.edu/news/here-we-have-idaho-magazine/past-issues/2017-spring/cassini">
+    <img src="https://www.uidaho.edu/news/here-we-have-idaho-magazine/past-issues/2017-spring/cassini" alt="" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">'What Cassini Can Teach Us' by Tara Roberts</div>
 </div>
 
 </body>
