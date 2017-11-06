@@ -4,7 +4,6 @@ title: Press
 permalink: /press
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -33,9 +32,9 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="http://www.astrobio.net/news-exclusive/bathtub-rings-suggest-titans-dynamic-seas/">
-    <img src="./images/P7100295.JPG" alt="Trolltunga Norway" width="300" height="200">
+    <img src="./images/astrobio.jpg" alt="" width="300" height="200">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc"> 'Bathtub rings suggest Titan's dynamic seas' by Nola Taylor Redd here</div>
 </div>
 
 <div class="gallery">
