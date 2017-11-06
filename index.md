@@ -10,6 +10,7 @@ layout: default
 
 I am a planetary scientist working towards a PhD in Physics from the University of Idaho. My research interests include evaporites, lakes, dunes, and the processes that form them on Saturn's largest moon, Titan. 
 
+When not in the lab, I enjoy cooking, knitting, gardening, and HIIT.
 
 
 > Website built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
