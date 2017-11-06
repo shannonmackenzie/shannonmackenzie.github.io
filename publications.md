@@ -22,3 +22,8 @@ Vixie, G., Barnes, J. W., Jackson, B., Rodriguez, S., Le Mouélic, S., Sotin, C.
 **MacKenzie, S. M.**, Barnes, J. W., Sotin, C., Soderblom, J. M., Le Mouélic, S., Rodriguez, S., Baines, K. H., Buratti, B. J., Clark, R. N., Nicholson, P.D.  & McCord, T. B. (2014). [Evidence of Titan’s climate history from evaporite distribution.](https://arxiv.org/pdf/1408.2899.pdf) *Icarus*, 243, 191-207.
 
 Pipino, A., Szabo, T., Pierpaoli, E., **MacKenzie, S. M.**, & Dong, F. (2011). [The properties of brightest cluster galaxies in the Sloan Digital Sky Survey Data Release 6 adaptive matched filter cluster catalogue.](https://academic.oup.com/mnras/article/417/4/2817/1097434) *Monthly Notices of the Royal Astronomical Society*, 417(4), 2817-2830.
+
+<div>
+  <img src="{{ site.url }}/images/bottomhalf.png" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
+</div>
+ 
