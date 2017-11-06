@@ -4,15 +4,12 @@ title: Contact and CV
 permalink: /cv
 ---
 
-** CV ** 
---------------------------------------------------------------------------------
+**CV** 
 as [pdf](https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/images/resume_July2017.pdf)
 
-** Email **
---------------------------------------------------------------------------------
+**Email**
 s.mackenzie.france-at-gmail.com 
 
-** Mail **
---------------------------------------------------------------------------------
+**Mail**
 875 Perimeter Drive, MS 0903 
 Moscow, ID 83844-0903
