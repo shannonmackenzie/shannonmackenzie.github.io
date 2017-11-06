@@ -46,14 +46,21 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://www.uidaho.edu/news/news-articles/news-releases/2016-june/061316-moonresearch">
-    <img src="./images/theogroupshot" alt="" width="600" height="400">
+    <img src="./images/theogroupshot.jpg" alt="" width="600" height="400">
   </a>
   <div class="desc">'Concept Mission Suggests "Tasting" Moon of Saturn to Search for Life' by Tara Roberts</div>
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="http://www.uidaho.edu/sci/undergrad-research/research-expo/2013/shannon-mackenzie">
+    <img src="./images/uiarticleheadshot.jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">'Investigating a Distant World' by Tara Roberts</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="https://www.uidaho.edu/news/here-we-have-idaho-magazine/past-issues/2017-spring/cassini">
-    <img src="https://www.uidaho.edu/news/here-we-have-idaho-magazine/past-issues/2017-spring/cassini" alt="" width="600" height="400">
+    <img src="./images/cassini.jpg" alt="" width="600" height="400">
   </a>
   <div class="desc">'What Cassini Can Teach Us' by Tara Roberts</div>
 </div>
