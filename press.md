@@ -10,7 +10,7 @@ permalink: /press
 div.gallery {
     margin: 10px;
     float: left;
-    width: 300px;
+    width: 200px;
 }
 
 div.gallery:hover {
@@ -34,7 +34,7 @@ div.desc {
   <a target="_blank" href="http://www.astrobio.net/news-exclusive/bathtub-rings-suggest-titans-dynamic-seas/">
     <img src="./images/astrobio.jpg" alt="" width="600" height="400">
   </a>
-  <div class="desc"> 'Bathtub rings suggest Titan's dynamic seas' by Nola Taylor Redd here</div>
+  <div class="desc"> 'Bathtub rings suggest Titan's dynamic seas' by Nola Taylor Redd </div>
 </div>
 
 <div class="gallery">
