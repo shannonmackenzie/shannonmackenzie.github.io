@@ -38,17 +38,17 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="https://www.theatlantic.com/science/archive/2016/03/planet-mission-concepts/475281/">
+    <img src="./images/enceladus.jpg" alt="" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Exploring the Oceans of the Outer Solar System by Rebecca Boyle</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="https://www.uidaho.edu/news/news-articles/news-releases/2016-june/061316-moonresearch">
+    <img src="./images/theogroupshot" alt="" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">'Concept Mission Suggests "Tasting" Moon of Saturn to Search for Life' by Tara Roberts</div>
 </div>
 
 <div class="gallery">
