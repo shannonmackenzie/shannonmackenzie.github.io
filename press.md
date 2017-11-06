@@ -32,8 +32,8 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="img_fjords.jpg">
-    <img src="img_fjords.jpg" alt="Trolltunga Norway" width="300" height="200">
+  <a target="_blank" href="http://www.astrobio.net/news-exclusive/bathtub-rings-suggest-titans-dynamic-seas/">
+    <img src="./images/P7100295.JPG" alt="Trolltunga Norway" width="300" height="200">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
