@@ -20,4 +20,5 @@ Neish, C. D., Barnes, J. W., Sotin, C., **MacKenzie, S. M.**, Soderblom, J. M., 
 Vixie, G., Barnes, J. W., Jackson, B., Rodriguez, S., Le Mouélic, S., Sotin, C., Sotin, C., **MacKenzie, S. M.** & Wilson, P. (2015). Possible temperate lakes on Titan. *Icarus*, 257, 313-323.
 
 **MacKenzie, S. M.**, Barnes, J. W., Sotin, C., Soderblom, J. M., Le Mouélic, S., Rodriguez, S., Baines, K. H., Buratti, B. J., Clark, R. N., Nicholson, P.D.  & McCord, T. B. (2014). [Evidence of Titan’s climate history from evaporite distribution.](https://arxiv.org/pdf/1408.2899.pdf) *Icarus*, 243, 191-207.
-Chicago	
+
+Pipino, A., Szabo, T., Pierpaoli, E., **MacKenzie, S. M.**, & Dong, F. (2011). [The properties of brightest cluster galaxies in the Sloan Digital Sky Survey Data Release 6 adaptive matched filter cluster catalogue.](https://academic.oup.com/mnras/article/417/4/2817/1097434) *Monthly Notices of the Royal Astronomical Society*, 417(4), 2817-2830.
