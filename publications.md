@@ -16,7 +16,7 @@ S.P.D. Birch, A.G. Hayes, P. Corlies, E.R. Stofan, J.D. Hofgartner, R.M.C. Lopes
 
 **S. M. MacKenzie**, T. E. Caswell,  C. M. Phillips-Lander, E. N. Stavros, J. D. Hofgartner, V. Z. Sun, K. E. Powell, C. J. Steuer,  J. G. O’Rourke, J. K. Dhaliwal,  C.W.S. Leung, E. M. Petro,  J.J. Wynne, S. Phan, M. Crismani, A. Krishnamurthy, K.K. John, K. DeBruin,  C.J. Budney,  K.L. Mitchell (2016). [THEO concept mission: Testing the Habitability of Enceladus’s Ocean.](https://arxiv.org/abs/1605.00579) *Advances in Space Research*, 58(6), 1117-1137.
 
-** S. M. MacKenzie** & J. W. Barnes (2016). [Compositional similaritites and distinctions between Titan's evaporitic terrains.]() *The Astrophysical Journal*, 821(1), 17.
+**S. M. MacKenzie** & J. W. Barnes (2016). [Compositional similaritites and distinctions between Titan's evaporitic terrains.]() *The Astrophysical Journal*, 821(1), 17.
 
  D. Cordier, T. Cornet, J. W. Barnes, **S. M. MacKenzie**, T. Le Bahers, D. Nna-Mvondo, P. Rannou & A. G. Ferreira (2016). [Structure of Titan’s evaporites.](https://arxiv.org/pdf/1512.07294.pdf) *Icarus*, 270, 41-56.
 
