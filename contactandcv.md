@@ -5,7 +5,7 @@ permalink: /cv
 ---
 
 **CV** 
-as [pdf](https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/images/resume_July2017.pdf)
+as [pdf](https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/cvs/resume_November2017.pdf)
 
 **Email**
 s.mackenzie.france-at-gmail.com 
