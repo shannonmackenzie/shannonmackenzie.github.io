@@ -4,9 +4,8 @@ title: Contact and CV
 permalink: /cv
 ---
 
-<div style="float: left;">
-  <img src="{{ site.url }}/images/26454324292_4515eac1ba_o.jpg" alt="3 minute thesis presentation, 2016" style="width:50%;" >
-</div>
+
+<img style="float: right;" src="{{ site.url }}/images/26454324292_4515eac1ba_o.jpg" alt="3 minute thesis presentation, 2016" style="width:50%;" >
 
 **CV** 
 as [pdf](https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/cvs/resume_November2017.pdf)
