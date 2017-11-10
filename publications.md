@@ -9,7 +9,7 @@ permalink: /publications
  
 # Published Works
 
-J.W. Barnes, **S. M. MacKenzie**, E. F. Young, L. E. Trouille, S. Rodriguez, T. Cornet, B. K. Jackson, M. \'{A}d\'{a}mkovics, C. Sotin, J. M. Soderblom. (submitted). Spherical Radiative Transfer in C++ (SRTC++): A Parallel Monte-Carlo Radiative Transfer Model for Titan, *The Astrophysical Journal*
+J.W. Barnes, **S. M. MacKenzie**, E. F. Young, L. E. Trouille, S. Rodriguez, T. Cornet, B. K. Jackson, M. $\'{A}$d$\'{a}$mkovics, C. Sotin, J. M. Soderblom. (submitted). Spherical Radiative Transfer in C++ (SRTC++): A Parallel Monte-Carlo Radiative Transfer Model for Titan, *The Astrophysical Journal*
 
 S.P.D. Birch, A.G. Hayes, P. Corlies, E.R. Stofan, J.D. Hofgartner, R.M.C. Lopes, R.D. Lorenz, J.I. Lunine, **S.M. MacKenzie**, M.J. Malaska, C.A. Wood, and the Cassini RADAR. (in revision). Team Morphological Evidence that Titan’s Southern Hemisphere Basins are Paleoseas *Icarus*
 
