@@ -9,19 +9,24 @@ permalink: /publications
  
 # Published Works
 
-**MacKenzie, S. M.**, Caswell, T. E., Phillips-Lander, C. M., Stavros, E. N., Hofgartner, J. D., Sun, V. Z., Powell, K. E., Steuer, C. J., O’Rourke, J. G., Dhaliwal, J. K., Leung, C.W.S., Petro, E. M., Wynne, J.J., Phan, S., Crismani, M., Krishnamurthy, A., John, K.K., DeBruin, K., Budney, C.J., Mitchell, K.L. (2016). [THEO concept mission: Testing the Habitability of Enceladus’s Ocean.](https://arxiv.org/abs/1605.00579) *Advances in Space Research*, 58(6), 1117-1137.
+J.W. Barnes, **S. M. MacKenzie**, E. F. Young, L. E. Trouille, S. Rodriguez, T. Cornet, B. K. Jackson, M. \'{A}d\'{a}mkovics, C. Sotin, J. M. Soderblom. (submitted). Spherical Radiative Transfer in C++ (SRTC++): A Parallel Monte-Carlo Radiative Transfer Model for Titan, *The Astrophysical Journal*
 
-**MacKenzie, S. M.**, & Barnes, J. W. (2016). [Compositional similaritites and distinctions between Titan's evaporitic terrains.]() *The Astrophysical Journal*, 821(1), 17.
+S.P.D. Birch, A.G. Hayes, P. Corlies, E.R. Stofan, J.D. Hofgartner, R.M.C. Lopes, R.D. Lorenz, J.I. Lunine, **S.M. MacKenzie**, M.J. Malaska, C.A. Wood, and the Cassini RADAR. (in revision). Team Morphological Evidence that Titan’s Southern Hemisphere Basins are Paleoseas *Icarus*
 
-Cordier, D., Cornet, T., Barnes, J. W., **MacKenzie, S. M.**, Le Bahers, T., Nna-Mvondo, D., Rannou, P. & Ferreira, A. G. (2016). [Structure of Titan’s evaporites.](https://arxiv.org/pdf/1512.07294.pdf) *Icarus*, 270, 41-56.
 
-Neish, C. D., Barnes, J. W., Sotin, C., **MacKenzie, S. M.**, Soderblom, J. M., Le Mouélic, S., Kirk RL, Stiles BW, Malaska MJ, Le Gall A & Brown, R. H. (2015). [Spectral properties of Titan's impact craters imply chemical weathering of its surface.](https://pdfs.semanticscholar.org/616d/71cb7d2565267bc4b071698a074ad6db7ec9.pdf) *Geophysical Research letters*, 42(10), 3746-3754.
+**S. M. MacKenzie**, T. E. Caswell,  C. M. Phillips-Lander, E. N. Stavros, J. D. Hofgartner, V. Z. Sun, K. E. Powell, C. J. Steuer,  J. G. O’Rourke, J. K. Dhaliwal,  C.W.S. Leung, E. M. Petro,  J.J. Wynne, S. Phan, M. Crismani, A. Krishnamurthy, K.K. John, K. DeBruin,  C.J. Budney,  K.L. Mitchell (2016). [THEO concept mission: Testing the Habitability of Enceladus’s Ocean.](https://arxiv.org/abs/1605.00579) *Advances in Space Research*, 58(6), 1117-1137.
 
-Vixie, G., Barnes, J. W., Jackson, B., Rodriguez, S., Le Mouélic, S., Sotin, C., Sotin, C., **MacKenzie, S. M.** & Wilson, P. (2015). Possible temperate lakes on Titan. *Icarus*, 257, 313-323.
+** S. M. MacKenzie** & J. W. Barnes (2016). [Compositional similaritites and distinctions between Titan's evaporitic terrains.]() *The Astrophysical Journal*, 821(1), 17.
 
-**MacKenzie, S. M.**, Barnes, J. W., Sotin, C., Soderblom, J. M., Le Mouélic, S., Rodriguez, S., Baines, K. H., Buratti, B. J., Clark, R. N., Nicholson, P.D.  & McCord, T. B. (2014). [Evidence of Titan’s climate history from evaporite distribution.](https://arxiv.org/pdf/1408.2899.pdf) *Icarus*, 243, 191-207.
+ D. Cordier, T. Cornet, J. W. Barnes, **S. M. MacKenzie**, T. Le Bahers, D. Nna-Mvondo, P. Rannou & A. G. Ferreira (2016). [Structure of Titan’s evaporites.](https://arxiv.org/pdf/1512.07294.pdf) *Icarus*, 270, 41-56.
 
-Pipino, A., Szabo, T., Pierpaoli, E., **MacKenzie, S. M.**, & Dong, F. (2011). [The properties of brightest cluster galaxies in the Sloan Digital Sky Survey Data Release 6 adaptive matched filter cluster catalogue.](https://academic.oup.com/mnras/article/417/4/2817/1097434) *Monthly Notices of the Royal Astronomical Society*, 417(4), 2817-2830.
+C. D. Neish, J.W. Barnes, C. Sotin, **S. M. MacKenzi.**, J. M. Soderblom, S. Le Mouélic, R.L. Kirk, B.W. Stiles, M.J. Malaska, A. Le Gall & R. H. Brown (2015). [Spectral properties of Titan's impact craters imply chemical weathering of its surface.](https://pdfs.semanticscholar.org/616d/71cb7d2565267bc4b071698a074ad6db7ec9.pdf) *Geophysical Research letters*, 42(10), 3746-3754.
+
+G. Vixie, J.W. Barnes, B. W. Jackson, S. Rodriguez, S. Le Mouélic, C. Sotin, **S. M. MacKenzie**, & P. Wilson (2015). Possible temperate lakes on Titan. *Icarus*, 257, 313-323.
+
+**S. M. MacKenzie**, J. W. Barnes,  C. Sotin, J. M. Soderblom, S. Le Mouélic, S. Rodriguez, K. H. Baines, B. J. Buratti, R. N. Clark, P. D. Nicholson, & T. B. McCord (2014). [Evidence of Titan’s climate history from evaporite distribution.](https://arxiv.org/pdf/1408.2899.pdf) *Icarus*, 243, 191-207.
+
+A. Pipino, T. Szabo, E. Pierpaoli, **S. M. MacKenzie**, & F. Dong (2011). [The properties of brightest cluster galaxies in the Sloan Digital Sky Survey Data Release 6 adaptive matched filter cluster catalogue.](https://academic.oup.com/mnras/article/417/4/2817/1097434) *Monthly Notices of the Royal Astronomical Society*, 417(4), 2817-2830.
 
 <div>
   <img src="{{ site.url }}/images/bottomhalf.png" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
