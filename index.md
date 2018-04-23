@@ -6,11 +6,11 @@ layout: default
     <img src="{{ site.url }}/images/agirlandherevaporites.JPG" alt="Liwa interdune evaporites" style="width:100%;" >
 </div>
 
-# Shannon MacKenzie, PhD Candidate
+# Shannon MacKenzie, PhD 
 
-I am a planetary scientist working towards a PhD in Physics from the University of Idaho. My research interests include evaporites, lakes, dunes, and the processes that form them on Saturn's largest moon, Titan. 
+I am a planetary scientist working at the Johns Hopkins Applied Physics laboratory. My research interests include evaporites, lakes, dunes, and the processes that form them on Saturn's largest moon, Titan. 
 
-When not in the lab, I enjoy cooking, knitting, gardening, and HIIT.
+When not in the lab, I enjoy cooking, knitting, reading, and HIIT.
 
 
 [Google Scholar profile](https://scholar.google.com/citations?user=982dVpEAAAAJ&hl=en)
