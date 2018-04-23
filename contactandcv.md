@@ -11,12 +11,12 @@ permalink: /cv
   
 <p>
 <img src="{{ site.url }}/images/26454324292_4515eac1ba_o.jpg" alt="3 minute thesis presentation, 2016" style="float:left;width:50%;height:50%">
-<p>     <b> CV: </b> <a href="https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/cvs/resume_November2017.pdf"> pdf</a></p>
+<p>     <b> 1-pg CV: </b> <a href="https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/cvs/resume_April2018_1pg.pdf"> pdf</a></p>
   
- <p>     <b> Email: </b> s.mackenzie.france-at-gmail.com </p>
+ <p>     <b> Email: </b> shannon.mackenzie-at-jhuapl.edu </p>
   
-   <p>     <b> Mail: </b> 875 Perimeter Drive, MS 0903 </p>
- <p>  <p> Moscow, ID 83844-0903</p></p>
+   <p>     <b> Mail: </b> 11100 Johns Hopkins Road </p>
+ <p>  <p> Mailstop 200-W230 Laurel, MD 20723 </p></p>
  
  </p>
 
