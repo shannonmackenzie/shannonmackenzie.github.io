@@ -67,7 +67,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://www.uidaho.edu/sci/news/features/2018/dragonfly">
-    <img src="./images/dragonfly-logo.jpg" alt="" width="600" height="400">
+    <img src="./images/dragonfly-logo.png" alt="" width="600" height="400">
   </a>
   <div class="desc">'Physicist Hopes to Lead Drone Mission to Titan' by Leigh Cooper</div>
 </div>
