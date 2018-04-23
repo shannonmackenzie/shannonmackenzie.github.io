@@ -8,7 +8,7 @@ layout: default
 
 # Shannon MacKenzie, PhD 
 
-I am a planetary scientist working at the Johns Hopkins Applied Physics laboratory. My research interests include evaporites, lakes, dunes, and the processes that form them on Saturn's largest moon, Titan. 
+I am a planetary scientist working at the Johns Hopkins Applied Physics Laboratory. My research interests include evaporites, lakes, dunes, and the processes that form them on Saturn's largest moon, Titan. 
 
 When not in the lab, I enjoy cooking, knitting, reading, and HIIT.
 
