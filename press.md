@@ -29,9 +29,10 @@ div.desc {
 </style>
 </head>
 <body>
+    
 <div class="gallery">
-  <a target="_blank" href=https://www.space.com/saturn-moon-titan-phantom-lakes-caves.html">
-    <img src="./images/radarlakedistrict.jpg" alt="" width="600" height="400">
+  <a target="_blank" href="https://www.space.com/saturn-moon-titan-phantom-lakes-caves">
+    <img src="./images/radarlakedistrict" alt="" width="600" height="400">
   </a>
   <div class="desc"> 'Saturn's Moon Titan May Have 'Phantom Lakes' and Caves' by Meghan Bartels </div>
 </div>
