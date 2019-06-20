@@ -10,7 +10,7 @@ layout: default
 
 I am a planetary scientist working at the Johns Hopkins University Applied Physics Laboratory. My research interests include evaporites, lakes, dunes, and the processes that form them on Saturn's largest moon, Titan. 
 
-When not in the lab, I enjoy cooking, knitting, reading, and HIIT.
+When not in the lab, I enjoy cooking, knitting, reading, HIIT, and learning the bagpipes.
 
 
 [Google Scholar profile](https://scholar.google.com/citations?user=982dVpEAAAAJ&hl=en)
