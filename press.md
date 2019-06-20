@@ -3,81 +3,15 @@ layout: default
 title: Press
 permalink: /press
 ---
+# Research
+[Saturn's Moon Titan May Have 'Phantom Lakes' and Caves](https://www.space.com/saturn-moon-titan-phantom-lakes-caves) by Meghan Bartels
+[Bathtub rings suggest Titan's dynamic seas'](http://www.astrobio.net/news-exclusive/bathtub-rings-suggest-titans-dynamic-seas/) by Nola Taylor Redd
+[Exploring the Oceans of the Outer Solar System](https://www.theatlantic.com/science/archive/2016/03/planet-mission-concepts/475281/) by Rebecca Boyle
+[Concept Mission Suggests "Tasting" Moon of Saturn to Search for Life](https://www.uidaho.edu/news/news-articles/news-releases/2016-june/061316-moonresearch) by Tara Roberts
+[Exploring the Oceans of the Outer Solar System](https://www.theatlantic.com/science/archive/2016/03/planet-mission-concepts/475281/) by Rebecca Boyle
+[Investigating a Distant World](http://www.uidaho.edu/sci/undergrad-research/research-expo/2013/shannon-mackenzie) by Tara Roberts
+[What Cassini Can Teach Us](https://www.uidaho.edu/news/here-we-have-idaho-magazine/past-issues/2017-spring/cassini) by Tara Roberts 
 
-<html>
-<head>
-<style>
-div.gallery {
-    margin: 10px;
-    float: left;
-    width: 200px;
-}
+# Dragonfly
+[Physicist Hopes to Lead Drone Mission to Titan](https://www.uidaho.edu/sci/news/features/2018/dragonfly) by Leigh Cooper
 
-div.gallery:hover {
-    border: 1px solid #777;
-}
-
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
-</style>
-</head>
-<body>
-    
-<div class="gallery">
-  <a target="_blank" href="https://www.space.com/saturn-moon-titan-phantom-lakes-caves">
-    <img src="./images/radarlakedistrict" alt="" width="600" height="400">
-  </a>
-  <div class="desc"> 'Saturn's Moon Titan May Have 'Phantom Lakes' and Caves' by Meghan Bartels </div>
-</div>
-                   
-<div class="gallery">
-  <a target="_blank" href="http://www.astrobio.net/news-exclusive/bathtub-rings-suggest-titans-dynamic-seas/">
-    <img src="./images/astrobio.jpg" alt="" width="600" height="400">
-  </a>
-  <div class="desc"> 'Bathtub rings suggest Titan's dynamic seas' by Nola Taylor Redd </div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://www.theatlantic.com/science/archive/2016/03/planet-mission-concepts/475281/">
-    <img src="./images/enceladus.jpg" alt="" width="600" height="400">
-  </a>
-  <div class="desc">Exploring the Oceans of the Outer Solar System by Rebecca Boyle</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://www.uidaho.edu/news/news-articles/news-releases/2016-june/061316-moonresearch">
-    <img src="./images/theogroupshot.jpg" alt="" width="600" height="400">
-  </a>
-  <div class="desc">'Concept Mission Suggests "Tasting" Moon of Saturn to Search for Life' by Tara Roberts</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="http://www.uidaho.edu/sci/undergrad-research/research-expo/2013/shannon-mackenzie">
-    <img src="./images/uiarticleheadshot.jpg" alt="" width="600" height="400">
-  </a>
-  <div class="desc">'Investigating a Distant World' by Tara Roberts</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://www.uidaho.edu/news/here-we-have-idaho-magazine/past-issues/2017-spring/cassini">
-    <img src="./images/cassini.jpg" alt="" width="600" height="400">
-  </a>
-  <div class="desc">'What Cassini Can Teach Us' by Tara Roberts</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://www.uidaho.edu/sci/news/features/2018/dragonfly">
-    <img src="./images/dragonfly-logo.png" alt="" width="600" height="400">
-  </a>
-  <div class="desc">'Physicist Hopes to Lead Drone Mission to Titan' by Leigh Cooper</div>
-</div>
-
-</body>
-</html>
