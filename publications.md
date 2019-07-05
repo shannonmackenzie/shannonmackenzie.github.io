@@ -8,6 +8,9 @@ permalink: /publications
 </div>
  
 # Published Works
+**MacKenzie, S. M.**, J. M. Lora, and R. D. Lorenz. “A Thermal Inertia Map of Titan” Journal of Geophysical Research: Planets https://doi.org/10.1029/2019JE005930
+
+**MacKenzie, S. M.**, J. W. Barnes, J. D. Hofgartner, S. P. D. Birch, M. M. Hedman, A. Lucas, S. Rodriguez, E. P. Turtle, and C. Sotin. "The case for seasonal surface changes at Titan’s lake district." Nature Astronomy (2019): 1.
 
 J.W. Barnes, **S. M. MacKenzie**, E. F. Young, L. E. Trouille, S. Rodriguez, T. Cornet, B. K. Jackson, M. Adamkovics, C. Sotin, J. M. Soderblom. (in press). Spherical Radiative Transfer in C++ (SRTC++): A Parallel Monte-Carlo Radiative Transfer Model for Titan, *The Astrophysical Journal*
 
