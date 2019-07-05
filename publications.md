@@ -9,13 +9,19 @@ permalink: /publications
  
 # Published Works
 **MacKenzie, S. M.**, J. M. Lora, and R. D. Lorenz. “A Thermal Inertia Map of Titan” Journal of Geophysical Research: Planets https://doi.org/10.1029/2019JE005930
-
 **MacKenzie, S. M.**, J. W. Barnes, J. D. Hofgartner, S. P. D. Birch, M. M. Hedman, A. Lucas, S. Rodriguez, E. P. Turtle, and C. Sotin. "The case for seasonal surface changes at Titan’s lake district." Nature Astronomy (2019): 1.
 
-J.W. Barnes, **S. M. MacKenzie**, E. F. Young, L. E. Trouille, S. Rodriguez, T. Cornet, B. K. Jackson, M. Adamkovics, C. Sotin, J. M. Soderblom. (in press). Spherical Radiative Transfer in C++ (SRTC++): A Parallel Monte-Carlo Radiative Transfer Model for Titan, *The Astrophysical Journal*
+Barnes, J.W., **S. M. MacKenzie**, R. D. Lorenz, and E. P. Turtle. "Titan’s Twilight and Sunset Solar Illumination." The Astronomical Journal 156, no. 5 (2018): 247.
 
-S.P.D. Birch, A.G. Hayes, P. Corlies, E.R. Stofan, J.D. Hofgartner, R.M.C. Lopes, R.D. Lorenz, J.I. Lunine, **S.M. MacKenzie**, M.J. Malaska, C.A. Wood, and the Cassini RADAR. (in revision). Team Morphological Evidence that Titan’s Southern Hemisphere Basins are Paleoseas *Icarus*
+Turtle, E. P., J. E. Perry, J. M. Barbara, A. D. Del Genio, S. Rodriguez, S. Le Mouélic, C. Sotin J. M. Lora, S. Faulk, P. Corlies, J. Kelland, **S. M. MacKenzie**, R. A. West, A. S. McEwen, J. I. Lunine, J. Pitesky, T . L. Ray, M. Roy. "Titan's meteorology over the Cassini mission: Evidence for extensive subsurface methane reservoirs." Geophysical Research Letters 45, no. 11 (2018): 5320-5328.
 
+Hatchett, W. T., J. W. Barnes, J. P. Ahlers, **S. M. MacKenzie**, and M. M. Hedman. "A pilot investigation to constrain the presence of ring systems around transiting exoplanets." New Astronomy 60 (2018): 88-94.
+
+Lorenz, R. D., E. P. Turtle, J. W. Barnes, M. G. Trainer, D. S. Adams, et al including **S. M. MacKenzie**. "Dragonfly: a Rotorcraft Lander Concept for scientific exploration at Titan." John Hopkins APL Technical Digest, (2017), 34, 3
+
+Barnes, J. W., **S. M. MacKenzie**, E. F. Young, L. E. Trouille, S. Rodriguez, T. Cornet, B. K. Jackson, M. Ádámkovics, C. Sotin, and J. M. Soderblom. "Spherical Radiative Transfer in C++ (SRTC++): A Parallel Monte Carlo Radiative Transfer Model for Titan." The Astronomical Journal 155, no. 6 (2018): 264.
+
+Birch, S. P. D., A. G. Hayes, P. Corlies, E. R. Stofan, J. D. Hofgartner, et al including **S. M. MacKenzie**. "Morphological evidence that Titan’s southern hemisphere basins are paleoseas." Icarus 310 (2018): 140-148.
 
 **S. M. MacKenzie**, T. E. Caswell,  C. M. Phillips-Lander, E. N. Stavros, J. D. Hofgartner, V. Z. Sun, K. E. Powell, C. J. Steuer,  J. G. O’Rourke, J. K. Dhaliwal,  C.W.S. Leung, E. M. Petro,  J.J. Wynne, S. Phan, M. Crismani, A. Krishnamurthy, K.K. John, K. DeBruin,  C.J. Budney,  K.L. Mitchell (2016). [THEO concept mission: Testing the Habitability of Enceladus’s Ocean.](https://arxiv.org/abs/1605.00579) *Advances in Space Research*, 58(6), 1117-1137.
 
