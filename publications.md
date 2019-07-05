@@ -9,6 +9,7 @@ permalink: /publications
  
 # Published Works
 **MacKenzie, S. M.**, J. M. Lora, and R. D. Lorenz. “A Thermal Inertia Map of Titan” Journal of Geophysical Research: Planets https://doi.org/10.1029/2019JE005930
+
 **MacKenzie, S. M.**, J. W. Barnes, J. D. Hofgartner, S. P. D. Birch, M. M. Hedman, A. Lucas, S. Rodriguez, E. P. Turtle, and C. Sotin. "The case for seasonal surface changes at Titan’s lake district." Nature Astronomy (2019): 1.
 
 Barnes, J.W., **S. M. MacKenzie**, R. D. Lorenz, and E. P. Turtle. "Titan’s Twilight and Sunset Solar Illumination." The Astronomical Journal 156, no. 5 (2018): 247.
