@@ -7,9 +7,9 @@ permalink: /publications
   <img src="{{ site.url }}/images/widePIA17470.png" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
 </div>
 
-# For a most up-to-date resource, check out my 
 
-# Published Works
+# Published Works 
+*last updated 2020-12-16*
 
 **MacKenzie, S. M.**, and R. D. Lorenz. ["Prospects for Detecting Volcanic Events with Microwave Radiometry."](https://www.mdpi.com/2072-4292/12/16/2544/htm) Remote Sensing 12, no. 16 (2020): 2544.
 
