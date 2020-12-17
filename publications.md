@@ -6,9 +6,24 @@ permalink: /publications
 <div>
   <img src="{{ site.url }}/images/widePIA17470.png" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
 </div>
- 
+
+# For a most up-to-date resource, check out my 
+
 # Published Works
-**MacKenzie, S. M.**, J. M. Lora, and R. D. Lorenz. [“A Thermal Inertia Map of Titan”](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JE005930) *Journal of Geophysical Research: Planets* https://doi.org/10.1029/2019JE005930
+
+**MacKenzie, S. M.**, and R. D. Lorenz. ["Prospects for Detecting Volcanic Events with Microwave Radiometry."](https://www.mdpi.com/2072-4292/12/16/2544/htm) Remote Sensing 12, no. 16 (2020): 2544.
+
+Neveu, M., A. Anbar, A. F. Davila, D. P. Glavin, **S. M. Mackenzie**, C. Phillips-Lander, B. Sherwood, Y. Takano, P. Williams, and H. Yano. ["Returning Samples from Enceladus for Life Detection."](https://doi.org/10.3389/fspas.2020.00026) *Frontiers in Astronomy and Space Sciences* 7 (2020): 26.
+
+Barnes, J.W., **S. M. MacKenzie**, E. F. Young, J. M. Soderblom, A. G. Hayes, C. Sotin, R. H. Brown, and L. A. Soderblom. ["Diffraction-limited Titan Surface Imaging from Orbit Using Near-infrared Atmospheric Windows."](https://iopscience.iop.org/article/10.3847/PSJ/ab91b6) *The Planetary Science Journal* 1, no. 1 (2020): 24.
+
+Hofgartner, J. D., A. G. Hayes, D.B. Campbell, J. I. Lunine, G. J. Black, **S. M. MacKenzie**, S. P. D. Birch et al. ["The root of anomalously specular reflections from solid surfaces on Saturn’s moon Titan."](https://www.nature.com/articles/s41467-020-16663-1) *Nature Communications* 11, no. 1 (2020): 1-8.
+
+Martin, K.P., **S. M. MacKenzie**, J. W. Barnes, and F. Marty Ytreberg. ["Protein Stability in Titan's Subsurface Water Ocean."](https://doi.org/10.1089/ast.2018.1972) *Astrobiology* 20, no. 2 (2020): 190-198.
+
+Lucas, A., S. Rodriguez, F. Lemonnier, A. Le Gall, **S. M. Mackenzie**, C. Ferrari, P. Paillou, and C. Narteau. ["Texture and composition of Titan's equatorial sand seas inferred from Cassini SAR data: Implications for aeolian transport and dune morphodynamics."](https://doi.org/10.1029/2019JE005965) *Journal of Geophysical Research: Planets* 124, no. 11 (2019): 3140-3163.
+
+**MacKenzie, S. M.**, J. M. Lora, and R. D. Lorenz. [“A Thermal Inertia Map of Titan”](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JE005930) *Journal of Geophysical Research: Planets* 124, no. 7 (2019): 1728-1742.
 
 **MacKenzie, S. M.**, J. W. Barnes, J. D. Hofgartner, S. P. D. Birch, M. M. Hedman, A. Lucas, S. Rodriguez, E. P. Turtle, and C. Sotin. ["The case for seasonal surface changes at Titan’s lake district."](https://www.nature.com/articles/s41550-018-0687-6) *Nature Astronomy* (2019): 1.
 
