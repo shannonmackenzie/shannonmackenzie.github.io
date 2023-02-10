@@ -11,7 +11,7 @@ permalink: /cv
   
 <p>
 <img src="{{ site.url }}/images/26454324292_4515eac1ba_o.jpg" alt="3 minute thesis presentation, 2016" style="float:left;width:50%;height:50%">
-<p>     <b> 1-pg CV: </b> <a href="https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/cvs/cv_June2019_full.pdf"> pdf</a></p>
+<p>     <b> CV: </b> <a href="https://github.com/shannonmackenzie/shannonmackenzie.github.io/blob/master/cvs/MacKenzie_cv_202210.pdf"> pdf</a></p>
   
  <p>     <b> Email: </b> shannon.mackenzie-at-jhuapl.edu </p>
   
