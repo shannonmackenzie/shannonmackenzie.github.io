@@ -7,7 +7,7 @@ permalink: /publications
   <img src="{{ site.url }}/images/widePIA17470.png" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
 </div>
 
-<! ADS export: %g [%T](%u) %J %V (%Y) %p -->
+[comment]: <>  ADS export: %g [%T](%u) %J %V (%Y) %p 
 
 
 # Published Works 
