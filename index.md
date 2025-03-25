@@ -13,6 +13,4 @@ I am a planetary scientist at the Johns Hopkins University Applied Physics Labor
 When not in the office, I enjoy spending time with my family, cooking, reading, HIIT/weight training, and [playing the bagpipes](https://www.baltimorecitypipeband.com/home).
 
 
-[Google Scholar profile](https://scholar.google.com/citations?user=982dVpEAAAAJ&hl=en)
--- 
-[JHU APL Staff page](https://civspace.jhuapl.edu/people/shannon-mackenzie)
+[Google Scholar profile](https://scholar.google.com/citations?user=982dVpEAAAAJ&hl=en) ∙ [JHU APL Staff page](https://civspace.jhuapl.edu/people/shannon-mackenzie)
