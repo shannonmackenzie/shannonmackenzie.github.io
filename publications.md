@@ -7,9 +7,18 @@ permalink: /publications
   <img src="{{ site.url }}/images/widePIA17470.png" alt="https://photojournal.jpl.nasa.gov/catalog/PIA18432" style="width:100%" >
 </div>
 
+<! ADS export: %g [%T](%u) %J %V (%Y) %p -->
+
 
 # Published Works 
-*last updated 2022-02-10*
+*last updated 2025-03-24*
+
+**MacKenzie S. M.**, Pontefract A., Daly R. T., Buffo J. J., Osinski G. R., Cline C. J., Cintala M. J., Craft K. L., Kinczyk M. J., Hedgepeth J., Hörst S. M., Méndez A., Pearce B. K. D., Stickle A. M., Vance S. D. [Impacts on Ocean Worlds Are Sufficiently Frequent and Energetic to Be of Astrobiological Importance](https://ui.adsabs.harvard.edu/abs/2024PSJ.....5..176M) The Planetary Science Journal 5 (2024) 176
+
+Poggiali V., Brighi G., Hayes A. G., Nicholson P. D., **MacKenzie S.**, Lalich D. E., Bonnefoy L. E., Oudrhiri K., Lorenz R. D., Soderblom J. M., Tortora P., Zannoni M. [Surface properties of the seas of Titan as revealed by Cassini mission bistatic radar experiments](https://ui.adsabs.harvard.edu/abs/2024NatCo..15.5454P) Nature Communications 15 (2024) 5454
+
+Pearce B. K. D., Hörst S. M., Cline C. J., Cintala M. J., He C., Sebree J. A., **MacKenzie S. M.**, Daly R. T., Pontefract A. J., Pesciotta C. [Toward Prebiotic Chemistry on Titan: Impact Experiments on Organic Haze Particles](https://ui.adsabs.harvard.edu/abs/2024PSJ.....5...68P) The Planetary Science Journal 5 (2024) 68
+
 
  **MacKenzie, S. M.**, K. D. Runyon, X. Yu, J. F. Kok, C. Newman, R. D. Lorenz, & F. Comola  ["Sediment-moving winds and abrasion on Titan: Implications for yardangs"](https://ui.adsabs.harvard.edu/abs/2023Icar..39415433M) Icarus, 394, (2023) 115433. 
 
