@@ -12,7 +12,7 @@ November 2023 (filmed Sept 2023 so yes that awkward bulge is pregnancy, not me s
 
 May 2022 [Fernbank Science Center Planetarium at Home Talk](https://www.facebook.com/fernbankcenter/videos/fsc-at-home-planetarium-may-6-2022/726023108434729)
 
-May 2021 Drones in Space (Curiosity Stream)
+May 2021 [Drones in Space (Curiosity Stream)](https://www.youtube.com/watch?v=wtOMr-bsBkA&t=506s)
 
 Mar 2021 [AAS Journal Author Series](https://www.youtube.com/watch?v=rR9PB9gq55Q&ab_channel=AAS)
 
