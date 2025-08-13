@@ -8,6 +8,8 @@ permalink: /press
 
 October 2024 [Solar System: Storm Worlds (Nova)](https://www.pbs.org/video/solar-system-storm-worlds-9kvelp/) (Onsite filming July 2023, September 2023)
 
+November 2023 (filmed Sept 2023 so yes that awkward bulge is pregnancy, not me slouching) JHU APL shorts [Titan](https://www.youtube.com/shorts/l3_PDtEmKlg), [Earth-like features on Titan](https://www.youtube.com/shorts/e_HGI-BBQ74), [Studying Habitability](https://www.youtube.com/shorts/Y0oQr06dVRU)
+
 May 2022 [Fernbank Science Center Planetarium at Home Talk](https://www.facebook.com/fernbankcenter/videos/fsc-at-home-planetarium-may-6-2022/726023108434729)
 
 May 2021 Drones in Space (Curiosity Stream)
