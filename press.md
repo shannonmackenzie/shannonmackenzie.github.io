@@ -20,7 +20,11 @@ May 2020 [PMCS Debrief: Enceladus Orbilander](https://www.youtube.com/watch?v=NA
 
 Sept 2018 [National Air and Space Museum, Smithsonian Institution Facebook Live](https://www.facebook.com/airandspace/videos/were-live-with-museum-planetary-scientist-emily-martin-and-applied-physics-labor/316375415777979/)
 
+Apr 2017 Vandals in Space blurbs [1](https://www.youtube.com/watch?v=wLDG7OJfTro), [2](https://www.youtube.com/watch?v=PwWW78EKXw8)
+
 May 2016 [3MT at University of Idaho](https://www.youtube.com/watch?v=sATu7lZYe50)
+
+
 
 # Research
 [Methane-Filled Lakes on Titan are "Surprisingly Deep"](https://www.universetoday.com/142009/methane-filled-lakes-on-titan-are-surprisingly-deep/) by Evan Gough for *Universe Today*
