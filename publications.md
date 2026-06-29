@@ -11,7 +11,13 @@ permalink: /publications
 <!--  ADS export: %g [%T](%u) %J %V (%Y) %p -->
 
 # Published Works 
-*last updated 2025-03-24*
+*last updated 2026-06-29*
+
+Barnes J. W., O'Neill C. T., **MacKenzie S. M.**, Miller W. J., Steward G. M., Es-sayeh M., Rodriguez S., Corlies P. M., Soderblom J. M. [Haze, Methane, and Carbon Monoxide in Titan's North Polar Atmosphere from a Cassini/VIMS Specular Transmission Spectrum on the T104 Flyby](https://ui.adsabs.harvard.edu/abs/2026PSJ.....7...54B) The Planetary Science Journal 7 (2026) 54
+
+Moisan E., Chatain A., Rafkin S., Soto A., **MacKenzie S.**, Spiga A. [Ramparts around Lakes on Titan Impact Winds and Methane Evaporation](https://ui.adsabs.harvard.edu/abs/2025PSJ.....6..220M) The Planetary Science Journal 6 (2025) 220
+
+**MacKenzie S. M.**, Barnes J. W., Miller W. J. [The Adjacency Effect at Kivu Lacus](https://ui.adsabs.harvard.edu/abs/2025PSJ.....6..194M) The Planetary Science Journal 6 (2025) 194 
 
 **MacKenzie S. M.**, Pontefract A., Daly R. T., Buffo J. J., Osinski G. R., Cline C. J., Cintala M. J., Craft K. L., Kinczyk M. J., Hedgepeth J., Hörst S. M., Méndez A., Pearce B. K. D., Stickle A. M., Vance S. D. [Impacts on Ocean Worlds Are Sufficiently Frequent and Energetic to Be of Astrobiological Importance](https://ui.adsabs.harvard.edu/abs/2024PSJ.....5..176M) The Planetary Science Journal 5 (2024) 176
 
